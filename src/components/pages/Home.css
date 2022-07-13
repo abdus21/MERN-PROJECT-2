@@ -1,0 +1,27 @@
+.bannar-section{
+    background: url(http://deeglazerdesign.com/wp-content/uploads/2020/03/AdobeStock_227207295.jpeg);
+    background-attachment: fixed;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 650px;
+    position: relative;
+    bottom: 74px;
+
+}
+.bannarOverlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.651);
+
+}
+.bannar-content{
+    color: #fff;
+}
+.bannar-content h1{
+    font-weight: 600;
+}
+.bannar-content h3{
+    font-weight: 600;
+}
